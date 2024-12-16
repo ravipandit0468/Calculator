@@ -1,2 +1,2 @@
 # Calculator
-Simple Calculator Using ADODotNetApplication.
+Simple Calculator Using ADODotNetApplication In C#.
